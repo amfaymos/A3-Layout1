@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    text-align: center;
+}
+
+.leftContent {
+    width: 15%;
+    float: left;
+}
+
+.main {
+    overflow: hidden;
+}
+
+.container1 {
+    overflow: hidden;
+}
+
+.item1 {
+    background-color: #3f3f3f;
+    height: 125px;
+    width: 50%;
+    float: left;
+}
+
+.item2 {
+    background-color: #919191;
+    height: 125px;
+    width: 50%;
+    float: left;
+}
+
+.container2 {
+    background-color: #0078e9;
+    height: 350px;
+    width: 100%;
+}
+
+.container3 {
+    overflow: hidden;
+}
+
+.item4 {
+    background-color: #3f3f3f;
+    height: 125px;
+    width: 50%;
+    float: left;
+}
+
+.item5 {
+    background-color: #919191;
+    height: 125px;
+    width: 50%;
+    float: left;
+}
+
+.midContent {
+    background-color: #00c3ff;
+    height: 600px;
+    width: 60%;
+    float: left;
+}
+
+.rightContent {
+    overflow: hidden;
+}
+
+.itemA {
+    background-color: #777777;
+    height: 120px;
+    width: 100%;
+    float: left;
+}
+
+.itemB {
+    background-color: #00779b;
+    height: 120px;
+    width: 100%;
+    float: left;
+}
+
+.itemC {
+    background-color: #525252;
+    height: 120px;
+    width: 100%;
+    float: left;
+}
+
+.itemD {
+    background-color: #006786;
+    height: 120px;
+    width: 100%;
+    float: left;
+}
+
+.itemE {
+    background-color: #424242;
+    height: 120px;
+    width: 100%;
+    float: left;
+}
